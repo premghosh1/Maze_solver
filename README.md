@@ -37,4 +37,5 @@ The table below gives an impression of the relative performance of each of these
 Requires matplotlib, numpy, keras and tensorflow.
 
 The training Matrices are as follows:-
+
 ![Maze](Matrix.png)
